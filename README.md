@@ -1,5 +1,9 @@
 # 📊 Excel for Data Analytics - Full Course
 
+ <img width="1347" height="619" alt="1_Salary_Dashboard" src="https://github.com/user-attachments/assets/8dd4682e-406a-4b1b-a2b3-5e51cdb473a3" />  
+ 
+ [Check Out My Work Here](Project_1-Dashboard)  
+ [Project 2](Project_2-Analysis)  
 Data Nerds! This repo contains all the Excel files needed to follow along my free course: [Excel for Data Analytics](https://lukebarousse.com/excel)
 
 [![Excel for Data Analytics](0_Resources/Images/Excel_Data_Analytics_v2.png)](https://youtu.be/pCJ15nGFgVg)
@@ -21,6 +25,10 @@ Data Nerds! This repo contains all the Excel files needed to follow along my fre
 - Ribbon
 - Menu
 - Keyboard Shortcuts
+  <img width="1347" height="619" alt="1_Salary_Dashboard" src="https://github.com/user-attachments/assets/8dd4682e-406a-4b1b-a2b3-5e51cdb473a3" />
+
+
+
 ### [Chapter 2: Formulas & Functions](/2_Formulas_Functions/)
 - Formulas
 - Functions
